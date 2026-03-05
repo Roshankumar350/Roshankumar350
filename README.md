@@ -1,7 +1,34 @@
 ## About Me..!!
-### print("Hello 👋 iOS Dev")
-### println("Hello 👋 aOS Dev")
-
+```
+{
+  "name": "Roshan Kumar Sah",
+  "experience": [
+    {
+      "company": "Tata Consultancy Services",
+      "isCurrent": true,
+      "role": "Senior Engineer",
+      "location": "Pune, India",
+      "projects": "HSBC, CITI"
+    },
+    {
+      "company": "Practo",
+      "isCurrent": false,
+      "role": "Software Engineer 2",
+      "location": "Bangalore, India",
+      "projects": "Practo Consumer"
+    },
+    {
+      "company": "QuEST Global",
+      "isCurrent": false,
+      "role": "Senior Engineer",
+      "location": "Bangalore, India",
+      "projects": "Apple Park, Mac Alerter, VMO Admin"
+    }
+  ],
+  "skills": "iOS, aOS, REST API",
+  "language": "Swift, Kotlin, JavaScript, TypeScript"
+}
+```
 <!--
 **Roshankumar350/Roshankumar350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
